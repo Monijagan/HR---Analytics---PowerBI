@@ -36,7 +36,7 @@ This Power BI case study analyzes employee attrition, hiring trends, performance
 
 ## 📬 Connect with Me
 If you have any questions, feel free to connect via:
-- **LinkedIn:** [Your LinkedIn Profile]([(https://www.linkedin.com/in/monisha-jaganathan/)])
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/monisha-jaganathan/)
   
 
 ---
